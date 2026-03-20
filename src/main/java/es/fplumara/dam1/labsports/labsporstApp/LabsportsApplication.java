@@ -1,4 +1,4 @@
-package es.fplumara.dam1.labsports;
+package es.fplumara.dam1.labsports.labsporstApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
